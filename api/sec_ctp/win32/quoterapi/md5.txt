@@ -1,0 +1,3 @@
+
+zqthostmdapi.dll                               81d48e984b3e09d0295ec718310a9447
+zqthostmdapi.lib                               5a0548b65b7321e09981bf8dac080fc1

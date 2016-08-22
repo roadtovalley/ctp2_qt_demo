@@ -1,0 +1,3 @@
+
+zqthosttraderapi.dll                           00b962d2ec03db32ab3e35fe7ecd79a8
+zqthosttraderapi.lib                           414b1791b8a99b300524388dd39ebe2a

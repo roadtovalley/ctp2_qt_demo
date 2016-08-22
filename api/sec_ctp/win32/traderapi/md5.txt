@@ -1,0 +1,10 @@
+
+MD5sums 1.2 freeware for Win9x/ME/NT/2000/XP+
+Copyright (C) 2001-2005 Jem Berkes - http://www.pc-tools.net/
+Type md5sums -h for help
+
+[Path] / filename                              MD5 sum
+-------------------------------------------------------------------------------
+[C:\workspace\stock_svn\ctp2\1.1.2_20160509\soptctp2_api_win32\release_traderapi\]
+zqthosttraderapi.dll                           e5906636721cfb113ca85e139cd146ef
+zqthosttraderapi.lib                           ae8f3154890cf4553d13dfb54e36575b
