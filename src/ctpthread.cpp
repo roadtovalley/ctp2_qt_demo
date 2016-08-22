@@ -1,10 +1,10 @@
 #include "ctpthread.h"
 
-const char* c_SecMdAddr = "tcp://192.20.103.164:22721";  //192.20.103.164
-const char* c_SecTdAddr = "tcp://192.20.103.164:22701";  //101.95.178.226
+const char* c_SecMdAddr = "tcp://101.95.178.226:22721";  //192.20.103.164
+const char* c_SecTdAddr = "tcp://101.95.178.226:22701";  //101.95.178.226
 const char* c_BrokerID = "0001";
-const char* c_UserID = "280020007";
-const char* c_Password = "112233";
+const char* c_UserID = "XXXXXXXXX";
+const char* c_Password = "XXXXXX";
 const char* c_UserProductInfo = "xyzq";
 const char* c_AuthCode = "xyzq";
 
